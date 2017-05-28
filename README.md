@@ -2,14 +2,14 @@
 RN 基础学习
 
 # 知识点
-React Native 组件的生命周期
-组件/类/常量/变量 导入导出
-props使用
-state使用
-ES6与ES5在RN中的不同之处
-React Native 布局
-按钮组件使用
-图片资源使用(本地/原生资源/网络资源)
+React Native 组件的生命周期.
+组件/类/常量/变量 导入导出.
+props使用.
+state使用.
+ES6与ES5在RN中的不同之处.
+React Native 布局.
+按钮组件使用.
+图片资源使用(本地/原生资源/网络资源).
 
 # 项目初始化
 1. 安装Node
