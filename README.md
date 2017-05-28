@@ -13,17 +13,17 @@ React Native 布局<br/>
 
 # 项目初始化
 1. 安装Node
-2. 安装RN命令行工具
+2. 安装RN命令行工具<br/>
     sudo npm install -g react-native-cli
-3. 初始化命令
-    react-native init demo
-    也可以指定RN版本
+3. 初始化命令<br/>
+    react-native init demo<br/>
+    也可以指定RN版本<br/>
     react-native init demo --version 0.40.0
 
 # 项目运行
-1. 工具运行, 安装Xcode 和 AndroidStudio
-2. 命令行运行, 先启动iOS和Android模拟器, 在项目根目录下
-    react-native run-ios
+1. 工具运行, 安装Xcode 和 AndroidStudio<br/>
+2. 命令行运行, 先启动iOS和Android模拟器, 在项目根目录下<br/>
+    react-native run-ios<br/>
     react-native run-android
 
 
